@@ -1,0 +1,6 @@
+{
+    "scripts": {
+        "build": "webpack",
+        "dev": "webpack serve"
+    }
+}

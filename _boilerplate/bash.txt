@@ -1,0 +1,15 @@
+# Initiation
+npm init -y
+npm i -D webpack webpack-cli
+npm i -D webpack-dev-server
+
+# Loaders
+npm i -D sass css-loader style-loader sass-loader
+npm i -D babel-loader @babel/core @babel/preset-env
+
+# Plugins
+npm i -D webpack-bundle-analyzer
+npm i -D html-webpack-plugin
+
+# Modules
+npm i lodash
